@@ -11,3 +11,9 @@ Project Link: https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Be
 ## Bonus Features
 
 - [x] User can enter a variable number of binary digits
+
+## Important Links
+
+Constraint Validation API -> https://developer.mozilla.org/en-US/docs/Web/API/Constraint_validation
+Defer attribute -> https://www.w3schools.com/tags/att_script_defer.asp
+Cypress -> https://docs.cypress.io/guides/overview/why-cypress
