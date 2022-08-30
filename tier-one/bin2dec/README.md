@@ -1,6 +1,7 @@
 # Bin2Dec
 
-Project Link: https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md
+🚧 Project Link: https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md
+🎥 YouTube Link: https://www.youtube.com/watch?v=SikiCy6iX-0
 
 ## User Stories
 
