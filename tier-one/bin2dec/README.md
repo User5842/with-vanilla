@@ -14,6 +14,6 @@ Project Link: https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Be
 
 ## Important Links
 
-Constraint Validation API -> https://developer.mozilla.org/en-US/docs/Web/API/Constraint_validation
-Defer attribute -> https://www.w3schools.com/tags/att_script_defer.asp
-Cypress -> https://docs.cypress.io/guides/overview/why-cypress
+- Constraint Validation API -> https://developer.mozilla.org/en-US/docs/Web/API/Constraint_validation
+- Defer attribute -> https://www.w3schools.com/tags/att_script_defer.asp
+- Cypress -> https://docs.cypress.io/guides/overview/why-cypress
