@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100;400;900&display=swap");
+
+.page {
+  font-family: "Fira Sans", sans-serif;
+}
+
+.title {
+  margin: 0;
+}
+
+.horizontal {
+  margin: 1rem 0;
+}
+
+.binary {
+  direction: rtl;
+  font-family: "Fira Sans", sans-serif;
+  outline: none;
+  unicode-bidi: bidi-override;
+}
+
+.binary:invalid {
+  border: red solid 3px;
+}
