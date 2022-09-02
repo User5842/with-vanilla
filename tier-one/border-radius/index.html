@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./index.css" />
+    <script src="./index.js" defer></script>
+    <title>Border-Radius Previewer</title>
+  </head>
+  <body class="page">
+    <main class="main">
+      <div class="box" id="box"></div>
+      <div class="controls" id="controls">
+        <label for="checkbox"
+          >Show more controls:
+          <input id="checkbox" type="checkbox" />
+        </label>
+        <label for="top-left"
+          >Top Left:
+          <input
+            data-border="borderTopLeftRadius"
+            id="top-left"
+            max="500"
+            type="range"
+          />
+        </label>
+        <label class="second" for="top-left-second"
+          >Top Left (Second):
+          <input
+            data-border="borderTopLeftRadius"
+            data-second
+            id="top-left-second"
+            max="500"
+            type="range"
+          />
+        </label>
+        <label for="top-right"
+          >Top Right:
+          <input
+            data-border="borderTopRightRadius"
+            id="top-right"
+            max="500"
+            type="range"
+          />
+        </label>
+        <label class="second" for="top-right-second"
+          >Top Right (Second):
+          <input
+            data-border="borderTopRightRadius"
+            data-second
+            id="top-right-second"
+            max="500"
+            type="range"
+          />
+        </label>
+        <label for="bottom-right"
+          >Bottom Right:
+          <input
+            data-border="borderBottomRightRadius"
+            id="bottom-right"
+            max="500"
+            type="range"
+          />
+        </label>
+        <label class="second" for="bottom-right-second"
+          >Bottom Right (Second):
+          <input
+            data-border="borderBottomRightRadius"
+            data-second
+            id="bottom-right-second"
+            max="500"
+            type="range"
+          />
+        </label>
+        <label for="bottom-left"
+          >Bottom Left:
+          <input
+            data-border="borderBottomLeftRadius"
+            id="bottom-left"
+            max="500"
+            type="range"
+          />
+        </label>
+        <label class="second" for="bottom-left-second"
+          >Bottom Left (Second):
+          <input
+            data-border="borderBottomLeftRadius"
+            data-second
+            id="bottom-left-second"
+            max="500"
+            type="range"
+          />
+        </label>
+      </div>
+      <pre class="pre" id="pre">
+        <code id="code"></code>
+      </pre>
+      <div class="tooltip" id="tooltip">Click to copy the code!</div>
+    </main>
+  </body>
+</html>
